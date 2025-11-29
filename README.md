@@ -148,5 +148,5 @@ Green-O-Meter showcases a scalable, reliable, and secure framework for real-time
 
 ### 🙌 Credits
 
-* Built by TANMAY TIWARI
+* Built by **TANMAY TIWARI**
 * (Smart India Hackathon 2023 Prototype)
