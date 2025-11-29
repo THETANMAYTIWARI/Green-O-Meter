@@ -71,25 +71,26 @@
 - - -
 
 ### 🚀 7. Key Features
+
 🔹 🔍 Real-Time Monitoring
 
-    * Sensors continuously capture CO₂, CO, CH₄, and other pollutants.
+  * Sensors continuously capture CO₂, CO, CH₄, and other pollutants.
 
 🔹 📲 Portable & Universal
 
-    * Attachable to any vehicle; lightweight and easy to deploy.
+  * Attachable to any vehicle; lightweight and easy to deploy.
 
 🔹 🔗 Blockchain Security
 
-    * Ensures pollution data cannot be altered or faked.
+   * Ensures pollution data cannot be altered or faked.
 
 🔹 📊 User-Friendly Web Dashboard
 
-    * Shows live emissions, alerts, and Greenoscore.
+   * Shows live emissions, alerts, and Greenoscore.
 
 🔹 🌐 IoV-compatible
 
-    * Supports future integration with smart vehicle ecosystems.
+  * Supports future integration with smart vehicle ecosystems.
 
 - - - 
 
