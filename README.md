@@ -92,9 +92,43 @@ Green-O-Meter showcases a scalable, reliable, and secure framework for real-time
 
 - - -
 
-### 🖼️ 10. Image Gallery (Table Layout)
+### 🖼️ 10. Image Gallery
 
-<table> <tr> <td align="center"> <b>🔄 Process Flow</b><br> <img src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" width="350"> </td> <td align="center"> <b>🧩 Proposed Model</b><br> <img src="https://github.com/user-attachments/assets/41e40f8f-b8b1-49a4-9891-195345bb33ce" width="350"> </td> </tr> <tr> <td align="center"> <b>🛠️ Prototype Hardware</b><br> <img src="https://github.com/user-attachments/assets/920ed26c-3c4e-4dcf-8f75-53516ecb98e7" width="350"> </td> <td align="center"> <b>🖥️ Web UI</b><br> <img src="https://github.com/user-attachments/assets/2752c291-33c0-4406-8c6f-c5e22d9e76f6" width="350"> </td> </tr> <tr> <td align="center"> <b>⚙️ Prototype Testing</b><br> <img src="https://github.com/user-attachments/assets/3f086629-1c89-406e-a63b-d847473e7b95" width="350"> </td> <td align="center"> <b>🔐 Blockchain Integration</b><br> <img src="https://github.com/user-attachments/assets/51a48882-0fc3-4ba0-8193-8e2479ae1e74" width="350"> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" width="350"><br>
+      <div align="center"><b>🔄 Process Flow</b></div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/41e40f8f-b8b1-49a4-9891-195345bb33ce" width="350"><br>
+      <div align="center"><b>🧩 Proposed Model</b></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/920ed26c-3c4e-4dcf-8f75-53516ecb98e7" width="350"><br>
+      <div align="center"><b>🛠️ Prototype Hardware</b></div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2752c291-33c0-4406-8c6f-c5e22d9e76f6" width="350"><br>
+      <div align="center"><b>🖥️ Web UI</b></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3f086629-1c89-406e-a63b-d847473e7b95" width="350"><br>
+      <div align="center"><b>⚙️ Prototype Testing</b></div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/51a48882-0fc3-4ba0-8193-8e2479ae1e74" width="350"><br>
+      <div align="center"><b>🔐 Blockchain Integration</b></div>
+    </td>
+  </tr>
+</table>
+
 
 - - - 
 
