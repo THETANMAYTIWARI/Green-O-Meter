@@ -1,104 +1,90 @@
-# Green-O-Meter
+## 🌱 Green-O-Meter
+### A Real-Time, Portable & Blockchain-Secured Vehicular Pollution Monitoring System
 
-Process Flow:
-<img width="564" height="796" alt="Process Flow" src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" />
+* Green-O-Meter is an IoT-powered pollution tracking prototype that continuously monitors vehicular emissions, computes a live Greenoscore, and securely stores emission records using blockchain technology. It is designed to be portable, vehicle-agnostic, and tamper-proof, enabling reliable pollution governance and empowering users with real-time insights.
 
-Proposed Model:
-<img width="826" height="452" alt="Proposed Model" src="https://github.com/user-attachments/assets/41e40f8f-b8b1-49a4-9891-195345bb33ce" />
+### 🧭 Overview
 
-Prototype: A snapshot capturing the integrated setup of gas sensors, Arduino microcontroller, and Bluetooth module, showcasing the core components of the Greenometer prototype. 
-<img width="1536" height="1024" alt="Prototype" src="https://github.com/user-attachments/assets/920ed26c-3c4e-4dcf-8f75-53516ecb98e7" />
+* 📡 Real-time pollutant detection (CO₂, CO, CH₄, etc.)
 
-UI: An image displaying the user-friendly web app interface, providing real-time pollution metrics, the Greenoscore. 
-<img width="1402" height="566" alt="UI" src="https://github.com/user-attachments/assets/2752c291-33c0-4406-8c6f-c5e22d9e76f6" />
+* 🔗 Secure, tamper-proof blockchain storage
 
-Prototype: A visual representation of the prototype undergoing testing, illustrating the system's responsiveness and functionality in a simulated environment.  
-<img width="647" height="634" alt="Prototype1" src="https://github.com/user-attachments/assets/3f086629-1c89-406e-a63b-d847473e7b95" />
+* 📱 Web interface for live Greenoscore
 
-Blockchain: An image highlighting the integration of blockchain technology, depicting the blockchain transactions by our device for secure storage of pollution data to enhance data security and transparency. 
-<img width="1225" height="745" alt="Blockchain" src="https://github.com/user-attachments/assets/51a48882-0fc3-4ba0-8193-8e2479ae1e74" />
+* 🔌 Lightweight portable device (gas sensors + Arduino + Bluetooth)
 
-🌱 Green-O-Meter
-A Real-Time, Portable & Blockchain-Secured Vehicular Pollution Monitoring System
+* 🚗 Universally adaptable to any vehicle
 
-Green-O-Meter is an IoT-powered pollution tracking prototype that continuously monitors vehicular emissions, computes a live Greenoscore, and securely stores emission records using blockchain technology. It is designed to be portable, vehicle-agnostic, and tamper-proof, enabling reliable pollution governance and empowering users with real-time insights.
+* 🌐 Future-ready: IoV integration, EV compatibility, ML-based predictions
 
-🧭 Overview
-
-📡 Real-time pollutant detection (CO₂, CO, CH₄, etc.)
-
-🔗 Secure, tamper-proof blockchain storage
-
-📱 Web interface for live Greenoscore
-
-🔌 Lightweight portable device (gas sensors + Arduino + Bluetooth)
-
-🚗 Universally adaptable to any vehicle
-
-🌐 Future-ready: IoV integration, EV compatibility, ML-based predictions
-
-🔄 1. Process Flow
+### 🔄 1. Process Flow
 End-to-End Architecture: Sensors → MCU → Bluetooth → Web App → Blockchain
 <img width="564" height="796" alt="Process Flow" src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" />
-🧩 2. Proposed Model
+
+### 🧩 2. Proposed Model
 High-level design of the Green-O-Meter ecosystem
 <img width="826" height="452" alt="Proposed Model" src="https://github.com/user-attachments/assets/41e40f8f-b8b1-49a4-9891-195345bb33ce" />
-🛠️ 3. Prototype Hardware Setup
+
+### 🛠️ 3. Prototype Hardware Setup
 Integrated gas sensors + Arduino MCU + Bluetooth module
 <img width="1536" height="1024" alt="Prototype" src="https://github.com/user-attachments/assets/920ed26c-3c4e-4dcf-8f75-53516ecb98e7" />
-🖥️ 4. Web Interface (UI)
+
+### 🖥️ 4. Web Interface (UI)
 Dashboard showing real-time pollutant levels & Greenoscore
 <img width="1402" height="566" alt="UI" src="https://github.com/user-attachments/assets/2752c291-33c0-4406-8c6f-c5e22d9e76f6" />
-⚙️ 5. Prototype Testing
+
+### ⚙️ 5. Prototype Testing
 Functional testing in a controlled setup
 <img width="647" height="634" alt="Prototype1" src="https://github.com/user-attachments/assets/3f086629-1c89-406e-a63b-d847473e7b95" />
-🔐 6. Blockchain Integration
+
+### 🔐 6. Blockchain Integration
 Tamper-proof storage of pollution records
 <img width="1225" height="745" alt="Blockchain" src="https://github.com/user-attachments/assets/51a48882-0fc3-4ba0-8193-8e2479ae1e74" />
-🚀 7. Key Features
+
+### 🚀 7. Key Features
 🔍 Real-Time Monitoring
 
-Sensors continuously capture CO₂, CO, CH₄, and other pollutants.
+* Sensors continuously capture CO₂, CO, CH₄, and other pollutants.
 
 📲 Portable & Universal
 
-Attachable to any vehicle; lightweight and easy to deploy.
+* Attachable to any vehicle; lightweight and easy to deploy.
 
 🔗 Blockchain Security
 
-Ensures pollution data cannot be altered or faked.
+* Ensures pollution data cannot be altered or faked.
 
 📊 User-Friendly Web Dashboard
 
-Shows live emissions, alerts, and Greenoscore.
+* Shows live emissions, alerts, and Greenoscore.
 
 🌐 IoV-compatible
 
-Supports future integration with smart vehicle ecosystems.
+* Supports future integration with smart vehicle ecosystems.
 
-🔮 8. Future Scope
+### 🔮 8. Future Scope
 
-Integration with Remote Sensing Units (RSUs) for area-wide pollution mapping
+* Integration with Remote Sensing Units (RSUs) for area-wide pollution mapping
 
-IoV-based cross-vehicle communication
+* IoV-based cross-vehicle communication
 
-Smartphone app + real-time alerts
+* Smartphone app + real-time alerts
 
-ML-based pollutant prediction models
+* ML-based pollutant prediction models
 
-EV-friendly sensor architecture
+* EV-friendly sensor architecture
 
-Government-level partnerships for pollution governance
+* Government-level partnerships for pollution governance
 
-🏁 9. Conclusion
+### 🏁 9. Conclusion
 
 Green-O-Meter showcases a scalable, reliable, and secure framework for real-time vehicular pollution monitoring. With its IoT-driven hardware, blockchain records, and real-time dashboard, it offers a powerful step toward smarter, cleaner, and more transparent pollution governance.
 
-🖼️ 10. Image Gallery (Table Layout)
-Clean visual showcase for GitHub README
-<table> <tr> <td align="center"> <b>🔄 Process Flow</b><br> <img src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" width="350"> </td> <td align="center"> <b>🧩 Proposed Model</b><br> <img src="https://github.com/user-attachments/assets/41e40f8f-b8b1-49a4-9891-195345bb33ce" width="350"> </td> </tr> <tr> <td align="center"> <b>🛠️ Prototype Hardware</b><br> <img src="https://github.com/user-attachments/assets/920ed26c-3c4e-4dcf-8f75-53516ecb98e7" width="350"> </td> <td align="center"> <b>🖥️ Web UI</b><br> <img src="https://github.com/user-attachments/assets/2752c291-33c0-4406-8c6f-c5e22d9e76f6" width="350"> </td> </tr> <tr> <td align="center"> <b>⚙️ Prototype Testing</b><br> <img src="https://github.com/user-attachments/assets/3f086629-1c89-406e-a63b-d847473e7b95" width="350"> </td> <td align="center"> <b>🔐 Blockchain Integration</b><br> <img src="https://github.com/user-attachments/assets/51a48882-0fc3-4ba0-8193-8e2479ae1e74" width="350"> </td> </tr> </table>
-🙌 Credits
+### 🖼️ 10. Image Gallery (Table Layout)
 
-Built by TANMAY TIWARI
-Guided by Dr. Balasundaram A
-(Smart India Hackathon 2023 Prototype)
+<table> <tr> <td align="center"> <b>🔄 Process Flow</b><br> <img src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" width="350"> </td> <td align="center"> <b>🧩 Proposed Model</b><br> <img src="https://github.com/user-attachments/assets/41e40f8f-b8b1-49a4-9891-195345bb33ce" width="350"> </td> </tr> <tr> <td align="center"> <b>🛠️ Prototype Hardware</b><br> <img src="https://github.com/user-attachments/assets/920ed26c-3c4e-4dcf-8f75-53516ecb98e7" width="350"> </td> <td align="center"> <b>🖥️ Web UI</b><br> <img src="https://github.com/user-attachments/assets/2752c291-33c0-4406-8c6f-c5e22d9e76f6" width="350"> </td> </tr> <tr> <td align="center"> <b>⚙️ Prototype Testing</b><br> <img src="https://github.com/user-attachments/assets/3f086629-1c89-406e-a63b-d847473e7b95" width="350"> </td> <td align="center"> <b>🔐 Blockchain Integration</b><br> <img src="https://github.com/user-attachments/assets/51a48882-0fc3-4ba0-8193-8e2479ae1e74" width="350"> </td> </tr> </table>
+
+### 🙌 Credits
+
+* Built by TANMAY TIWARI
+* (Smart India Hackathon 2023 Prototype)
