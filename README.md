@@ -86,17 +86,17 @@
 
 ### 🔮 8. Future Scope
 
-* Integration with Remote Sensing Units (RSUs) for area-wide pollution mapping
+* Integration with Remote Sensing Units (RSUs) for area-wide pollution mapping.
 
-* IoV-based cross-vehicle communication
+* IoV-based cross-vehicle communication.
 
-* Smartphone app + real-time alerts
+* Smartphone app + real-time alerts.
 
-* ML-based pollutant prediction models
+* ML-based pollutant prediction models.
 
-* EV-friendly sensor architecture
+* EV-friendly sensor architecture.
 
-* Government-level partnerships for pollution governance
+* Government-level partnerships for pollution governance.
 
 - - -
 
