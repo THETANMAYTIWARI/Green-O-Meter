@@ -72,9 +72,7 @@
 
 ### 🚀 7. Key Features
 
-🔹 🔍 Real-Time Monitoring
-
-  * Sensors continuously capture CO₂, CO, CH₄, and other pollutants.
+🔹 🔍 **Real-Time Monitoring:** Sensors continuously capture CO₂, CO, CH₄, and other pollutants.
 
 🔹 📲 Portable & Universal
 
