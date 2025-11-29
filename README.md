@@ -97,7 +97,7 @@ Green-O-Meter showcases a scalable, reliable, and secure framework for real-time
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" width="350"><br>
+      <img width="796" height="564" alt="Process Flow" src="https://github.com/user-attachments/assets/410a97eb-c77e-4393-ae63-597fce3923ff" /><br>
       <div align="center"><b>🔄 Process Flow</b></div>
     </td>
     <td align="center">
