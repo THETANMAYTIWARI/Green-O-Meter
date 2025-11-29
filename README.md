@@ -22,28 +22,51 @@
 - - -
 
 ### 🔄 1. Process Flow
-End-to-End Architecture: Sensors → MCU → Bluetooth → Web App → Blockchain
-<img width="564" height="796" alt="Process Flow" src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6042cb15-d342-4857-8ae5-32b4ef226ce0" width="480"><br>
+  <div align="center"><b>End-to-End Architecture: Sensors → MCU → Bluetooth → Web App → Blockchain</b></div>
+</p>
+
+---
 
 ### 🧩 2. Proposed Model
-High-level design of the Green-O-Meter ecosystem
-<img width="826" height="452" alt="Proposed Model" src="https://github.com/user-attachments/assets/41e40f8f-b8b1-49a4-9891-195345bb33ce" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41e40f8f-b8b1-49a4-9891-195345bb33ce" width="600"><br>
+  <div align="center"><b>High-level design of the Green-O-Meter ecosystem</b></div>
+</p>
+
+---
 
 ### 🛠️ 3. Prototype Hardware Setup
-Integrated gas sensors + Arduino MCU + Bluetooth module
-<img width="1536" height="1024" alt="Prototype" src="https://github.com/user-attachments/assets/920ed26c-3c4e-4dcf-8f75-53516ecb98e7" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/920ed26c-3c4e-4dcf-8f75-53516ecb98e7" width="600"><br>
+  <div align="center"><b>Integrated gas sensors + Arduino MCU + Bluetooth module</b></div>
+</p>
+
+---
 
 ### 🖥️ 4. Web Interface (UI)
-Dashboard showing real-time pollutant levels & Greenoscore
-<img width="1402" height="566" alt="UI" src="https://github.com/user-attachments/assets/2752c291-33c0-4406-8c6f-c5e22d9e76f6" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2752c291-33c0-4406-8c6f-c5e22d9e76f6" width="650"><br>
+  <div align="center"><b>Dashboard showing real-time pollutant levels & Greenoscore</b></div>
+</p>
+
+---
 
 ### ⚙️ 5. Prototype Testing
-Functional testing in a controlled setup
-<img width="647" height="634" alt="Prototype1" src="https://github.com/user-attachments/assets/3f086629-1c89-406e-a63b-d847473e7b95" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f086629-1c89-406e-a63b-d847473e7b95" width="420"><br>
+  <div align="center"><b>Functional testing in a controlled setup</b></div>
+</p>
+
+---
 
 ### 🔐 6. Blockchain Integration
-Tamper-proof storage of pollution records
-<img width="1225" height="745" alt="Blockchain" src="https://github.com/user-attachments/assets/51a48882-0fc3-4ba0-8193-8e2479ae1e74" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51a48882-0fc3-4ba0-8193-8e2479ae1e74" width="650"><br>
+  <div align="center"><b>Tamper-proof storage of pollution records</b></div>
+</p>
+
 
 - - -
 
